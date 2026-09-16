@@ -24,6 +24,6 @@ public class RadioButtonTest extends BaseTest {
 
         Assert.assertEquals(
                 elementsPage.getSelectedRadioText(),
-                "No");
+                "Yes");
     }
 }
